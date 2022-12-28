@@ -1,0 +1,2 @@
+# symbols
+All stock symbols.
