@@ -21,7 +21,7 @@ A social investing platform where retail traders collaborate, share and exchange
 #1 FinTech Product of the Week (x2)  & #4 FinTech Product of the Month on [Product Hunt](https://www.producthunt.com/products/nvstly-social-investing)
 
 ## Socials
-[Discord](https://nvstly.com/discord) | [X/Twitter](https://nvstly.com/go/x) | [YouTube](https://nvstly.com/go/youtube) | [TikTok](https://nvstly.com/go/) | [Instagram](https://nvstly.com/go/instagram) | [Threads](https://nvstly.com/go/) | [Facebook](https://nvstly.com/go/) | [LinkedIn](https://nvstly.com/go/) | [Linktree](https://nvstly.com/go/linktree) | [Mastodon](https://nvstly.com/go/mastodon) | [Nostr](https://nvstly.com/go/) | [Bluesky](https://nvstly.com/go/bsky) | [Hive/InLeo](https://nvstly.com/hive) | [Product Hunt](https://nvstly.com/go/producthunt)  
+[Discord](https://nvstly.com/discord) | [X/Twitter](https://nvstly.com/go/x) | [YouTube](https://nvstly.com/go/youtube) | [TikTok](https://nvstly.com/go/tiktok) | [Instagram](https://nvstly.com/go/instagram) | [Threads](https://nvstly.com/go/threads) | [Facebook](https://nvstly.com/go/facebook) | [LinkedIn](https://nvstly.com/go/linkedin) | [Linktree](https://nvstly.com/go/linktree) | [Mastodon](https://nvstly.com/go/mastodon) | [Nostr](https://nvstly.com/go/nostr) | [Bluesky](https://nvstly.com/go/bsky) | [Hive/InLeo](https://nvstly.com/hive) | [Product Hunt](https://nvstly.com/go/producthunt)  
 
 ## [Help & FAQs](https://help.nvstly.com)
 See our [Help Center](https://help.nvstly.com) for support articles and frequently asked questions
