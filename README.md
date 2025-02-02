@@ -5,11 +5,17 @@ A complete list of all NYSE & NASDAQ ticker symbols. Updated daily at around 8:0
 
 # [NVSTly](https://nvstly.com): Social Investing
 
+<p align="center" width="100%">
+    <a href="https://nvstly.com" target="_blank">
+        <img width="33%" src="https://cdn.nvstly.com/static/banner_clear.png" alt="NVSTly Banner">
+    </a>
+</p>
+
 A social investing platform where retail traders collaborate, share and exchange knowledge, analysis, and ideas. Supporting all stocks, futures, forex, & cryptocurrency markets. Track trades with extensive insights & in-depth performance stats, share them in real-time with your followers or to Discord & social media, follow traders & receive real-time notifications of their positions to copy trade, with cross-brokerage support to automate it all and provide easy 1-click copy trading functionality.
 
 <p align="center" width="100%">
     <a href="https://nvstly.com" target="_blank">
-        <img width="33%" src="https://cdn.nvstly.com/static/banner_clear.png" alt="NVSTly Banner">
+        <img width="33%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazcxdDkybWxmb2k4dHQ3bHU0NHB4Yzdkc3o0dnpwajVmajhrZmgzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hfqBAeTEatIFCLVnyH/giphy.gif" alt="NVSTly: Social Investing">
     </a>
 </p>
 
